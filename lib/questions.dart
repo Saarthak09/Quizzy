@@ -1,5 +1,5 @@
 class Questions {
-  String question;
-  bool answer;
-  Questions(this.question, this.answer);
+  String ques;
+  bool ans;
+  Questions(this.ques, this.ans);
 }
